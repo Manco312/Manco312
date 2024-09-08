@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Django using AI
 - 💞️ I’m looking to collaborate on projects where I can learn and apply engineering and software abilities
 - 📫 How to reach me: elmanquisho3124@gmail.com
-- ⚡ Fun fact: I love programming 😄
+- ⚡ Fun fact: I love challenges 😄
 
 <!---
 Manco312/Manco312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
