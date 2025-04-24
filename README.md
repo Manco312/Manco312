@@ -16,7 +16,8 @@
 
 ## 🚀 Feature Projects
 
-
+- 🤖 **Inventech Analytics:** Made with Django, this web application serves as an alternative for managing inventory in food companies. It integrates AI and Data Analytics to provide suggestions and graphs that can help you to make decisions based on sales, expiration, etc.
+- 🤖 **JobAligner:** This web application was made with Django and it helps job candidates to adapt their CVs based on the vacant that they are applying to. AI is integrated for generating the new CVs in ATS format (that can be downloaded in pdf).
 
 ---
 
