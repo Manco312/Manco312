@@ -4,9 +4,9 @@
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,js,ts,react,html,css,tailwind,bootstrap,java,spring,mysql,postgresql,mongodb,git,github,arduino,raspberrypi,bash,powershell,vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,bootstrap,java,mysql,git,github,arduino,raspberrypi,vscode)](https://skillicons.dev)
 
 ---
 
