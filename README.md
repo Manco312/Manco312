@@ -20,7 +20,7 @@
 
 ---
 
-## 📬 Conectemos
+## 📬 Let's connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 📫 Email: tu.correo@dominio.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiago-manco-maya-b03454359/)
+- 📫 Email: santiagomancomaya@gmail.com
