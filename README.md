@@ -8,6 +8,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,html,css,bootstrap,java,mysql,git,github,arduino,raspberrypi,vscode)](https://skillicons.dev)
 
+## 🛠️ I'm currently learning...
+
+[![My Skills](https://skillicons.dev/icons?i=r,react,js)](https://skillicons.dev)
+
 ---
 
 ## 🚀 Proyectos destacados
