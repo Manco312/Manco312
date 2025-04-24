@@ -1,12 +1,22 @@
-# About Me
-- 👋 Hello, I’m @Manco312
-- 👀 I’m interested in AI, development and Data Science
-- 🌱 I’m currently learning Django using AI
-- 💞️ I’m looking to collaborate on projects where I can learn and apply engineering and software abilities
-- 📫 How to reach me: elmanquisho3124@gmail.com
-- ⚡ Fun fact: I love challenges 😄
+# 👋 Hi! My name is Santiago Manco
 
-<!---
-Manco312/Manco312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 I'm currently studying System Engineering in Universidad EAFIT, Medellín, Colombia | I'm passionate about IA, Data Science, Software Engineering and Math
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,js,ts,react,html,css,tailwind,bootstrap,java,spring,mysql,postgresql,mongodb,git,github,arduino,raspberrypi,bash,powershell,vscode,pycharm)](https://skillicons.dev)
+
+---
+
+## 🚀 Proyectos destacados
+
+
+
+---
+
+## 📬 Conectemos
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 📫 Email: tu.correo@dominio.com
