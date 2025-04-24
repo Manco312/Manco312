@@ -6,7 +6,7 @@
 
 ## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,bootstrap,java,mysql,git,github,arduino,raspberrypi,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,bootstrap,java,c++,mysql,git,github,arduino,raspberrypi,vscode)](https://skillicons.dev)
 
 ## 🛠️ I'm currently learning...
 
