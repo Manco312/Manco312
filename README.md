@@ -1,6 +1,6 @@
 # 👋 Hi! My name is Santiago Manco
 
-🎯 I'm currently studying System Engineering in Universidad EAFIT, Medellín, Colombia | I'm passionate about IA, Data Science, Software Engineering and Math
+🎯 I'm currently studying System Engineering in Universidad EAFIT, Medellín, Colombia | I'm passionate about AI, Data Science, Software Engineering and Math
 
 ---
 
