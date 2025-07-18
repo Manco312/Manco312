@@ -10,7 +10,7 @@
 
 ## 🛠️ I'm currently learning...
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php)](https://skillicons.dev)
 
 ---
 
