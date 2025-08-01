@@ -1,4 +1,4 @@
-# 👋 Hi! My name is Santiago Manco
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=521BF7&center=true&vCenter=true&width=435&lines=Santiago+Manco;Computer+Science+Student)](https://git.io/typing-svg)
 
 🎯 I'm currently studying System Engineering in Universidad EAFIT, Medellín, Colombia | I'm passionate about AI, Data Science, Software Engineering and Math
 
