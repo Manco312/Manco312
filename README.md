@@ -1,30 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=521BF7&width=500&lines=Santiago+Manco;Computer+Science+Student)](https://git.io/typing-svg)
+<!-- Encabezado con efecto de escritura -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=521BF7&width=500&lines=Santiago+Manco;Computer+Science+Student" alt="Typing SVG" />
+  </a>
+</p>
 
-![Alt text](14621.gif)
-
-🎯 I'm currently studying Computer Science in Universidad EAFIT, Medellín, Colombia | I'm passionate about AI, Data Science, Software Engineering and Math
+<!-- GIF + Descripción al lado -->
+<table>
+  <tr>
+    <td>
+      <img src="14621.gif" width="300" alt="Animated GIF"/>
+    </td>
+    <td>
+      <h3>🎯 About Me</h3>
+      <p>
+        I'm currently studying <strong>Computer Science</strong> at <strong>Universidad EAFIT</strong> in Medellín, Colombia.<br><br>
+        I'm passionate about <strong>AI</strong>, <strong>Data Science</strong>, <strong>Software Engineering</strong>, and <strong>Math</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,bootstrap,java,r,cpp,mysql,git,github,arduino,raspberrypi,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,java,r,cpp,mysql,git,github,arduino,raspberrypi,vscode" alt="My Skills" />
+  </a>
+</p>
 
-## 🛠️ I'm currently learning...
+## 📚 I'm currently learning...
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php" alt="Learning Skills" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Feature Projects
+## 🚀 Featured Projects
 
-- 🤖 **Inventech Analytics:** Made with Django, this web application serves as an alternative for managing inventory in food companies. It integrates AI and Data Analytics to provide suggestions and graphs that can help you to make decisions based on sales, expiration, etc.
-- 🤖 **JobAligner:** This web application was made with Django and it helps job candidates to adapt their CVs based on the vacant that they are applying to. AI is integrated for generating the new CVs in ATS format (that can be downloaded in pdf).
-- 🔢 **ShadowSolver:** This web application was made with Django, it has some methods for numerical analysis. It is deployed so anyone can try it!
+### 🤖 Inventech Analytics  
+A Django web app for managing food inventory. It integrates AI and data analytics to provide suggestions and visualizations for decision-making based on sales, expiration dates, and more.
+
+### 🤖 JobAligner  
+Django-based app that helps job candidates adapt their CVs for specific vacancies. It uses AI to generate CVs in ATS-friendly formats and allows PDF download.
+
+### 🔢 ShadowSolver  
+Django app for numerical analysis methods. It's deployed and available for anyone to try.
 
 ---
 
-## 📬 Let's connect!
+## 📬 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/santiago-manco-maya-b03454359/)
 - 📫 Email: santiagomancomaya@gmail.com
