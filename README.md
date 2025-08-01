@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=521BF7&width=500&lines=Santiago+Manco;Computer+Science+Student)](https://git.io/typing-svg)
 
+![Alt text](14621.gif)
+
 🎯 I'm currently studying Computer Science in Universidad EAFIT, Medellín, Colombia | I'm passionate about AI, Data Science, Software Engineering and Math
 
 ---
