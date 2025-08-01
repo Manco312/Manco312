@@ -1,7 +1,7 @@
 <!-- Encabezado con efecto de escritura -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=521BF7&width=500&lines=Santiago+Manco;Computer+Science+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=521BF7&width=500&height=55&lines=Santiago+Manco;Computer+Science+Student" alt="Typing SVG" />
   </a>
 </p>
 
