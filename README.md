@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php" alt="Learning Skills" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,nextjs" alt="Learning Skills" />
   </a>
 </p>
 
