@@ -84,7 +84,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=python,django,java,cpp,r,js,react,html,css,bootstrap,mysql,git,github,vscode" 
+      src="https://skillicons.dev/icons?i=python,django,java,cpp,r,js,react,html,css,bootstrap,mysql,git,github,vscode,laravel,php,nextjs" 
       alt="Tech Stack" 
     />
   </a>
@@ -94,7 +94,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=laravel,php,nextjs" 
+      src="https://skillicons.dev/icons?i=vue,sklearn,pytorch"
       alt="Currently Learning" 
     />
   </a>
