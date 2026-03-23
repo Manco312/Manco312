@@ -159,5 +159,5 @@ It is deployed and available for public use.
 ========================= -->
 
 <p align="center">
-  <i>"Code, learn, improve, repeat."</i>
+  <i>"And yet, here I stand..."</i>
 </p>
